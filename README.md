@@ -60,8 +60,8 @@ A powerful terminal bomb testing tool with an immersive cyber-themed interface. 
 
 ---
 
-##  **Installation**
-
+##  **Installation** 
+You can set this up in termux, vs code, pydroid etc.....
 ### **Prerequisites**
 - Python 3.8 or higher
 - Pip package manager
