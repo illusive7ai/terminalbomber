@@ -1,4 +1,4 @@
-# TerminalBomber System 
+# TerminalBomber v3.0
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
