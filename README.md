@@ -9,6 +9,14 @@
 
 ---
 
+![Screenshot](bombersetup.png)
+
+
+![Screenshot](info.png)
+
+
+
+![Screenshot](bombing.png)
 ##  **LEGAL DISCLAIMER**
 
 > **THIS TOOL IS FOR EDUCATIONAL AND TESTING PURPOSES ONLY!**
