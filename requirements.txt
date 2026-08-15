@@ -1,0 +1,65 @@
+# ============================================
+# TerminalBomber System v3.0
+# Python Package Requirements
+# ============================================
+
+# Core HTTP client for API requests
+requests>=2.28.0,<3.0.0
+
+# Terminal color support for beautiful output
+colorama>=0.4.6,<0.5.0
+
+# Environment variable management for secure credentials
+python-dotenv>=1.0.0,<2.0.0
+
+# ============================================
+# Optional but recommended for advanced features
+# ============================================
+
+# For better JSON handling (already included in Python 3.8+)
+# json (built-in)
+
+# For database operations (already included in Python)
+# sqlite3 (built-in)
+
+# For date/time operations (already included in Python)
+# datetime (built-in)
+
+# For regular expressions (already included in Python)
+# re (built-in)
+
+# For random number generation (already included in Python)
+# random (built-in)
+
+# For base64 encoding/decoding (already included in Python)
+# base64 (built-in)
+
+# For OS operations (already included in Python)
+# os (built-in)
+
+# For system operations (already included in Python)
+# sys (built-in)
+
+# For time operations (already included in Python)
+# time (built-in)
+
+# ============================================
+# Development Dependencies (Optional)
+# ============================================
+
+# For code formatting
+# black>=22.0.0
+
+# For linting
+# flake8>=5.0.0
+
+# For testing
+# pytest>=7.0.0
+
+# For type checking
+# mypy>=0.990
+
+# ============================================
+# Installation Command:
+# pip install -r requirements.txt
+# ============================================
