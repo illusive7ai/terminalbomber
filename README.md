@@ -26,11 +26,11 @@
 
 ---
 
-## 📖 **About**
+##  **About**
 
 A powerful terminal bomb testing tool with an immersive cyber-themed interface. Built for educational purposes.
 
-### ✨ **Features**
+###  **Features**
 
 -  **Beautiful ASCII Art Banner** - Cyber/dragon themed
 -  **Bulk Testing** - Send 1-1000 test requests
